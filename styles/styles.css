@@ -1,0 +1,13 @@
+/*reset*/
+html{box-sizing: border-box;}
+*, *:before, *:after { box-sizing: inherit; }
+
+
+:root{
+    --fondo-principal: #D9D7D4;
+    --fontsize-xl: 4rem;
+    --fontsize-normal: 1.5rem;
+    --space-lg: 2.5rem;
+    --space-xs: 1.2rem;
+    --font-color: #00000000;
+}
